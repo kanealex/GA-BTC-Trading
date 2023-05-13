@@ -34,6 +34,6 @@ It's important to execute the cells in order as some cells may depend on the out
 
 The project structure is as follows:
 
-
 bot.ipynb
+
 indicators.py
